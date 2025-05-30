@@ -16,8 +16,8 @@ START = """**
 ⏱️ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Badhacker98/ShizuChat_Bot/fork)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll)
+ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BESTIE_UNITE_CLUB)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
 ╚═══════════════╝
 
 ➲ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴩꜱ ᴛᴏ ᴜꜱᴇ ꜰᴇᴀᴛᴜʀᴇꜱ.
