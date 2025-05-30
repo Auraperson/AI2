@@ -22,8 +22,8 @@ START = """**
 ┗━━━━━•❃°•°❀•━━━━━┛
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Badhacker98/ShizuChat_Bot/fork)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll)
+ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BESTIE_UNITE_CLUB)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax)
 ╚═══════════════╝
 **"""
 
@@ -34,7 +34,7 @@ OWNER = f"""**
 ──────────────
 ➻ /restart  ʀᴇsᴛᴀʀᴛ &  ᴜᴘᴅᴀᴛᴇ ʀᴇᴘᴏ.  
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax) 💞**
 """
 
 HELP_READ = f"""**
@@ -64,7 +64,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /rankings /overall ᴜsᴇʀ ᴍsɢ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax) 💞**
 """
 
 AIBOT_READ = f"""**
@@ -78,7 +78,7 @@ AIBOT_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /blackbox ᴡʀɪᴛᴇ ꜱɪᴍᴘʟᴇ ꜰʟᴀꜱᴋ ᴀᴘᴘ ᴄᴏᴅᴇ
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -90,10 +90,10 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /resetlang, /nolang - ʀᴇsᴇᴛs ᴛʜᴇ ʙᴏᴛ's ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ ᴍɪxᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/Badhacker98/ShizuChat_Bot/fork)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ADMIN_READ2 = f"""**
 ๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {shizuchat.mention}:
@@ -120,7 +120,7 @@ ADMIN_READ2 = f"""**
 ──────────────
 ➻ ᴜsᴇ /unmute - ᴜɴᴍᴜᴛᴇ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax) 💞**
 """
 
 ADMIN_READ = f"""**
@@ -142,7 +142,7 @@ ADMIN_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /warns - ꜱʜᴏᴡ ᴡᴀʀɴɪɴɢ ᴏꜰ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ʙᴀᴅ ✯ ᴍᴜɴᴅᴀ](https://t.me/ll_BAD_MUNDA_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/silenthrax) 💞**
 """
 
 ABOUT_READ = f"""
