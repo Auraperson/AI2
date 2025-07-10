@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 
 
 START = """**
-🤖 ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ꜱᴜᴘᴇʀғᴀꜱᴛ ᴄʜᴀᴛʙᴏᴛ 🚀
+ADD ME BABY 😩 TUMHARI GF BAN KR RAHUNGI 💭
 
 📁 ꜱᴜᴘᴘᴏʀᴛꜱ ᴛᴇxᴛ, ꜱᴛɪᴄᴋᴇʀ, ᴘʜᴏᴛᴏ, ᴠɪᴅᴇᴏ...
 🌍 ᴍᴜʟᴛɪ-ʟᴀɴɢᴜᴀɢᴇ ғᴏʀ ᴇᴀᴄʜ ᴄʜᴀᴛ /lang
@@ -19,15 +19,15 @@ START = """**
 ⏱️ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BESTIE_UNITE_CLUB)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/Silenthrax)
+ ➻ PAID [₹49](https://t.me/UseSense)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [AURA VISUAL](https://t.me/HeavenChatGroup)
 ╚═══════════════╝
 
 ➲ ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴩꜱ ᴛᴏ ᴜꜱᴇ ꜰᴇᴀᴛᴜʀᴇꜱ.
 **"""
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [𝐒𝐢𝐥𝐞𝐧𝐭𝐡𝐫𝐚𝐱](https://t.me/BESTIE_UNITE_CLUB).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [Support](https://t.me/HeavenChatGroup).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
