@@ -15,9 +15,9 @@ DB_NAME = "samira-bot"
 MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = int(getenv("OWNER_ID", "7685184136"))
 BOT_ID = int(getenv("BOT_ID", "7791021817"))
-SUPPORT_GRP = "BESTIE_UNITE_CLUB"
-UPDATE_CHNL = "Silenthrex"
-OWNER_USERNAME = "silenthrax"
+SUPPORT_GRP = "HeavenChatGroup"
+UPDATE_CHNL = "AuraVisual"
+OWNER_USERNAME = "Usesense"
 TIME_ZONE = "Asia/Kolkata"
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002754356584"))
 # --------------------------------------------------------------
