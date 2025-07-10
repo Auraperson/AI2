@@ -2,7 +2,7 @@ import random
 from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 CHAT_STORAGE = [
-    "mongodb+srv://deepak-bot:LoRm7nrAqVs2xncW@cluster0.hnp8icx.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://carofo7264:carofo7264@cluster0.s2ptcja.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 ]
 
 BADMUNDA = MongoCli(random.choice(CHAT_STORAGE))
