@@ -21,7 +21,7 @@ OWNER_USERNAME = "silenthrax"
 TIME_ZONE = "Asia/Kolkata"
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002754356584"))
 # --------------------------------------------------------------
-SUDOERS = list(map(int, getenv("SUDOERS", "6766551134").split()))
+SUDOERS = list(map(int, getenv("SUDOERS", "7685184136").split()))
 # --------------------------------------------------------------
 
 ### DONT TOUCH or EDIT codes after this line
